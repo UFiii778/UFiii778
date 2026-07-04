@@ -92,7 +92,13 @@
   </a>
 </div>
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=316teau73kzdhsqsvbzufq2nii64&count=3)
+###
+
+<p align="center">
+  <a href="https://open.spotify.com/user/316teau73kzdhsqsvbzufq2nii64">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316teau73kzdhsqsvbzufq2nii64&count=3" alt="Spotify Recently Played" />
+  </a>
+</p>
 
 ###
 

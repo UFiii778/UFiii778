@@ -6,9 +6,14 @@
 
 <h1 data-importer="text" align="center">Hello!</h1>
 
+
 ###
 
 <p data-importer="text" align="left">My name is Luthfi, you can call me ufi and I'm a Junior Developer, from Indonesia</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&width=435&lines=Full+Stack+Web+Developer;Building+Digital+Solutions;Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
 
 ###
 
@@ -86,6 +91,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+[![Spotify](https://novatide.vercel.app/api/spotify?background_color=1a1a1a&text_color=ffffff&unique_id=316teau73kzdhsqsvbzufq2nii64)](https://open.spotify.com/user/316teau73kzdhsqsvbzufq2nii64?si=c0dbd050532a4160)
 
 ###
 

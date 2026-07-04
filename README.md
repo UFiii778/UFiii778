@@ -92,7 +92,7 @@
   </a>
 </div>
 
-[![Spotify](https://novatide.vercel.app/api/spotify?background_color=1a1a1a&text_color=ffffff&unique_id=316teau73kzdhsqsvbzufq2nii64)](https://open.spotify.com/user/316teau73kzdhsqsvbzufq2nii64?si=c0dbd050532a4160)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=316teau73kzdhsqsvbzufq2nii64&count=3)
 
 ###
 
